@@ -39,6 +39,17 @@ ADD SKETCH
 ADD GIF
 
 ### Discussion of implementation
+    - Implemented features: 
+        - Calendar Events
+        - News
+        - Health: Weight
+        - Weather
+        - Clock
+        - Illumination colors (ADVANCED)
+    - Changes made from the sketch:
+        - Clock was moved to top and center of the mirror
+        - Weather moved to the left side of the mirror
+        - Weight moved to the right side of the mirror
 #### Right side of Mirror
 #### Left side of Mirror
 #### Top of Mirror
