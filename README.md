@@ -36,7 +36,7 @@ ADD VID
 
 ## Implementation
 ### GIF of Mirror in use
-![p2gif](https://user-images.githubusercontent.com/59324140/202066502-f625afd5-08c9-4239-8360-ccb687b8c645.gif)
+
 
 
 ### Discussion of implementation
