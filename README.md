@@ -36,7 +36,7 @@ ADD VID
 
 ## Implementation
 ### GIF of Mirror in use
-![P5 js - Google Chrome 2022-11-15 19-48-02 (1)](https://user-images.githubusercontent.com/59324140/202065166-a2067d4e-385c-4379-97d6-4df0dfa2e489.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/59324140/202065724-a51ae4a7-1444-48a1-9576-638c0ba16171.gif)
 
 ### Discussion of implementation
 #### Changes made from the sketch:
