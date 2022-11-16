@@ -39,18 +39,17 @@ ADD SKETCH
 ADD GIF
 
 ### Discussion of implementation
+#### Changes made from the sketch:
+- Clock was moved to top and center of the mirror
+- Weather moved to the left side of the mirror
+- Weight moved to the right side of the mirror
+- Calendar Events moved to right side of the mirror
 #### Implemented features
 - Calendar Events
+    - The calendar events on the righthand side of the mirror are displayed to the user by fetching the stored event data in <events.json> for that specific date
 - News
 - Health: Weight
 - Weather
 - Clock
 - Illumination Colorss (ADVANCED)
-#### Changes made from the sketch:
-- Clock was moved to top and center of the mirror
-- Weather moved to the left side of the mirror
-- Weight moved to the right side of the mirror
-#### Right side of Mirror
-#### Left side of Mirror
-#### Top of Mirror
-#### Bottom of Mirror (ADVANCED FEATURE)
+
