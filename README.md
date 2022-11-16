@@ -30,3 +30,13 @@ ADD SKETCH
 ### Bottom of Mirror
 - Illumination Color
     > As an advanced feature, this mirror will have several buttons along the bottom that the user may press to change the illumination color of the mirror.
+
+## Implementation
+### GIF of Mirror in use
+ADD GIF
+
+### Discussion of implementation
+#### Right side of Mirror
+#### Left side of Mirror
+#### Top of Mirror
+#### Bottom of Mirror (ADVANCED FEATURE)
