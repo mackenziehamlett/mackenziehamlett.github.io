@@ -19,9 +19,14 @@ ADD SKETCH
 
 ### Right side of Mirror
 - Clock
+    > The clock displayed will be an analog clock showing the current locla time to the user.
 - Weather
+    > The weather portion of the display will contain forecast (sunny/cloudy/rainy... etc), the current temperature in F degrees, and will display the place the mirror is displaying the weather in geographically.
 - Text Messages
+    > The mirror will be connected to the user's phone through bluetooth and will display the unread text messages along with a snippit of what they say to the user.
 - Social Media
+    > Both twitter and Snapchat will be displayed to the user, both displaying unseen messages and top stories/ tweets to the user.
 
 ### Bottom of Mirror
 - Illumination Color
+    > As an advanced feature, this mirror will have several buttons along the bottom that the user may press to change the illumination color of the mirror.
