@@ -39,7 +39,7 @@ ADD SKETCH
 ADD GIF
 
 ### Discussion of implementation
-    #### Implemented features
+#### Implemented features
         - Calendar Events
         - News
         - Health: Weight
