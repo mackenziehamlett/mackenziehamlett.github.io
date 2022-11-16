@@ -36,7 +36,8 @@ ADD VID
 
 ## Implementation
 ### GIF of Mirror in use
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/59324140/202065724-a51ae4a7-1444-48a1-9576-638c0ba16171.gif)
+![p2gif](https://user-images.githubusercontent.com/59324140/202066502-f625afd5-08c9-4239-8360-ccb687b8c645.gif)
+
 
 ### Discussion of implementation
 #### Changes made from the sketch:
