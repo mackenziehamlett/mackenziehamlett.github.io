@@ -36,6 +36,7 @@ ADD VID
 
 ## Implementation
 ### GIF of Mirror in use
+(having issues with seeing gif -> see in file p2.Mackenzie.hamlett gif pages does not like this file)
 ![Mackenzie Hamlett](https://user-images.githubusercontent.com/59324140/202067828-0a3bf398-1f08-494f-b3e2-34b63aaf4289.gif)
 
 
