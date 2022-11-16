@@ -55,6 +55,6 @@ ADD GIF
     - The weather functionality was implemented through accessing the free weather API given by weather.gov, the 3 fetched data points from the API for the user are the local temperature, the forecast (sunny, cloudy, rainty...etc), and the location of the mirror user. 
 - Clock
     - The clock was implemented utilizing cp5.js's ability to access the clock of the computer the program is being ran on through positioning the hour, minute, and second hands in their correct positions through functions minute(), hour(), second() and multiplied by cos() and sin() for the correct radial locations on the dial.
-- Illumination Colorss (ADVANCED)
+- Illumination Colors (ADVANCED)
     - 
 
