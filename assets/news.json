@@ -1,0 +1,1199 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/5d4acd26-508a-5047-b4bc-05593dabd610",
+      "url": "https://www.nytimes.com/2022/11/12/fashion/weddings/tiffany-trump-wedding-mar-a-lago.html",
+      "id": 100000008611753,
+      "asset_id": 100000008611753,
+      "source": "New York Times",
+      "published_date": "2022-11-12",
+      "updated": "2022-11-13 18:17:30",
+      "section": "Fashion",
+      "subsection": "Love",
+      "nytdsection": "fashion",
+      "adx_keywords": "Weddings and Engagements;Trump, Tiffany (1993- );Maples, Marla;Trump, Donald J;Mar-a-Lago (Palm Beach, Fla)",
+      "column": null,
+      "byline": "By Tammy La Gorce",
+      "type": "Article",
+      "title": "Tiffany Trump Weds at Mar-a-Lago",
+      "abstract": "Tiffany Trump and Michael Boulos, whose wedding was almost derailed by Hurricane Nicole, treated their guests to an American-Lebanese celebration at her father’s private residence.",
+      "des_facet": [
+        "Weddings and Engagements"
+      ],
+      "org_facet": [
+        "Mar-a-Lago (Palm Beach, Fla)"
+      ],
+      "per_facet": [
+        "Trump, Tiffany (1993- )",
+        "Maples, Marla",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marla Maples, left, Michael Boulos, Tiffany Trump and former President Donald J. Trump at Mar-a-Lago on Saturday.",
+          "copyright": "Hy Goldberg for DenisLEON&Co",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/12/multimedia/12tiffany-trump-weds-02/12tiffany-trump-weds-02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/12/multimedia/12tiffany-trump-weds-02/12tiffany-trump-weds-02-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/12/multimedia/12tiffany-trump-weds-02/12tiffany-trump-weds-02-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2a664f19-b447-5834-beeb-4d3dad170478",
+      "url": "https://www.nytimes.com/2022/11/12/us/plane-crash-dallas.html",
+      "id": 100000008634759,
+      "asset_id": 100000008634759,
+      "source": "New York Times",
+      "published_date": "2022-11-12",
+      "updated": "2022-11-13 18:36:31",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Aviation Accidents, Safety and Disasters;Air Shows and Air Racing;Military Aircraft;World War II (1939-45);Terry Barker;Dallas Executive Airport (Dallas, Tex);Commemorative Air Force;Dallas (Tex)",
+      "column": null,
+      "byline": "By Margarita Birnbaum and Vimal Patel",
+      "type": "Article",
+      "title": "6 Dead After Planes Collide in Midair at Dallas Air Show",
+      "abstract": "The crash involved two World War II-era planes at an air show in Dallas on Saturday.",
+      "des_facet": [
+        "Aviation Accidents, Safety and Disasters",
+        "Air Shows and Air Racing",
+        "Military Aircraft",
+        "World War II (1939-45)"
+      ],
+      "org_facet": [
+        "Dallas Executive Airport (Dallas, Tex)",
+        "Commemorative Air Force"
+      ],
+      "per_facet": [
+        "Terry Barker"
+      ],
+      "geo_facet": [
+        "Dallas (Tex)"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d3193aaf-a997-50b5-be53-acadfef371e7",
+      "url": "https://www.nytimes.com/2022/11/13/arts/television/saturday-night-live-dave-chappelle.html",
+      "id": 100000008635141,
+      "asset_id": 100000008635141,
+      "source": "New York Times",
+      "published_date": "2022-11-13",
+      "updated": "2022-11-13 10:52:08",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Television;Comedy and Humor;Chappelle, Dave",
+      "column": null,
+      "byline": "By Dave Itzkoff",
+      "type": "Article",
+      "title": "On ‘Saturday Night Live,’ Dave Chappelle Mocks Kanye and Kyrie",
+      "abstract": "In his monologue, the comic channeled antisemitic myths as he ridiculed Kanye West and Kyrie Irving.",
+      "des_facet": [
+        "Television",
+        "Comedy and Humor"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Chappelle, Dave"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dave Chappelle hosted “Saturday Night Live” this week.",
+          "copyright": "NBCUniversal",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/13/arts/13snl/13snl-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/13/arts/13snl/13snl-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/13/arts/13snl/13snl-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/27aa8abe-32d8-5359-8720-a384d55994f9",
+      "url": "https://www.nytimes.com/2022/11/13/world/europe/heres-what-we-know-about-the-attack.html",
+      "id": 100000008635314,
+      "asset_id": 100000008635314,
+      "source": "New York Times",
+      "published_date": "2022-11-13",
+      "updated": "2022-11-13 18:11:58",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Bombs and Explosives;Istanbul (Turkey);Taksim Square (Istanbul, Turkey)",
+      "column": null,
+      "byline": "By Ben Hubbard and Safak Timur",
+      "type": "Article",
+      "title": "Here’s what we know about the attack.",
+      "abstract": "The blast tore through a busy pedestrian thoroughfare popular with tourists. It was unclear who carried it out.",
+      "des_facet": [
+        "Bombs and Explosives"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Istanbul (Turkey)",
+        "Taksim Square (Istanbul, Turkey)"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b0f335a7-3359-5f26-baea-1fc7ba4694cd",
+      "url": "https://www.nytimes.com/2022/11/14/technology/amazon-layoffs.html",
+      "id": 100000008636027,
+      "asset_id": 100000008636027,
+      "source": "New York Times",
+      "published_date": "2022-11-14",
+      "updated": "2022-11-14 16:51:14",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "E-Commerce;Computers and the Internet;Layoffs and Job Reductions;Jassy, Andrew R;Amazon.com Inc",
+      "column": null,
+      "byline": "By Karen Weise",
+      "type": "Article",
+      "title": "Amazon Is Said to Plan to Lay Off Thousands of Employees",
+      "abstract": "The job cuts of approximately 10,000, which would start as soon as this week, would focus on the company’s devices organization, retail division and human resources.",
+      "des_facet": [
+        "E-Commerce",
+        "Computers and the Internet",
+        "Layoffs and Job Reductions"
+      ],
+      "org_facet": [
+        "Amazon.com Inc"
+      ],
+      "per_facet": [
+        "Jassy, Andrew R"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The job cuts at Amazon would represent roughly 3 percent of its corporate employees and less than 1 percent of its global work force of more than 1.5 million. ",
+          "copyright": "Miles Fortune for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/15/business/14JPamazon-print/14amazon-sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/15/business/14JPamazon-print/merlin_170077581_c23d4ea4-be53-42f0-9335-7cabc8980a05-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/15/business/14JPamazon-print/merlin_170077581_c23d4ea4-be53-42f0-9335-7cabc8980a05-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6fa73166-e649-543a-8285-544e78faf54d",
+      "url": "https://www.nytimes.com/2022/11/12/us/elections/senate-control.html",
+      "id": 100000008632188,
+      "asset_id": 100000008632188,
+      "source": "New York Times",
+      "published_date": "2022-11-12",
+      "updated": "2022-11-13 10:17:15",
+      "section": "U.S.",
+      "subsection": "Elections",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Elections, Senate;Midterm Elections (2022);United States Politics and Government;Masto, Catherine Cortez;Laxalt, Adam;Democratic Party;Republican Party;Nevada",
+      "column": null,
+      "byline": "By Jonathan Weisman",
+      "type": "Article",
+      "title": "Democrats Hold the Senate, as Cortez Masto Ekes Out a Victory in Nevada",
+      "abstract": "Senator Catherine Cortez Masto defeated Adam Laxalt, the state’s former attorney general. Democrats now will try to add to their control of the chamber in Georgia’s runoff election on Dec. 6.",
+      "des_facet": [
+        "Elections, Senate",
+        "Midterm Elections (2022)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Masto, Catherine Cortez",
+        "Laxalt, Adam"
+      ],
+      "geo_facet": [
+        "Nevada"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Catherine Cortez Masto at her election night party in Las Vegas. Days later, her victory over Adam Laxalt, a Republican former attorney general of Nevada, was confirmed.",
+          "copyright": "Mikayla Whitmore for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/12/10/multimedia/10election-blog-senate-cortez-masto-1-e029/10election-blog-senate-cortez-masto-1-e029-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/12/10/multimedia/10election-blog-senate-cortez-masto-1-e029/10election-blog-senate-cortez-masto-1-e029-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/12/10/multimedia/10election-blog-senate-cortez-masto-1-e029/10election-blog-senate-cortez-masto-1-e029-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/67a3975e-ea56-5d50-8094-43debac5ffad",
+      "url": "https://www.nytimes.com/2022/11/10/opinion/biden-democrat-2024.html",
+      "id": 100000008619759,
+      "asset_id": 100000008619759,
+      "source": "New York Times",
+      "published_date": "2022-11-10",
+      "updated": "2022-11-12 01:52:07",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2024;United States Politics and Government;Governors (US);Biden, Joseph R Jr;Harris, Kamala D;Buttigieg, Pete (1982- );Whitmer, Gretchen;Klobuchar, Amy;Warren, Elizabeth;Cooper, Roy A;Brown, Sherrod;Pritzker, J B;Khanna, Ro;Sanders, Bernard;Ocasio-Cortez, Alexandria;Newsom, Gavin;Landrieu, Mitch;Obama, Michelle;Kelly, Mark E (1964- );Warnock, Raphael G;Polis, Jared S (1975- );Tester, Jon;Beshear, Andrew G (1977- );Democratic Party",
+      "column": null,
+      "byline": "By Frank Bruni",
+      "type": "Article",
+      "title": "Biden Is No Sure Thing for 2024. What About Buttigieg? Harris? Even Whitmer?",
+      "abstract": "Many Democrats have craved the chance to pick somebody else to run for president in 2024. But which somebody? ",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Governors (US)"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Harris, Kamala D",
+        "Buttigieg, Pete (1982- )",
+        "Whitmer, Gretchen",
+        "Klobuchar, Amy",
+        "Warren, Elizabeth",
+        "Cooper, Roy A",
+        "Brown, Sherrod",
+        "Pritzker, J B",
+        "Khanna, Ro",
+        "Sanders, Bernard",
+        "Ocasio-Cortez, Alexandria",
+        "Newsom, Gavin",
+        "Landrieu, Mitch",
+        "Obama, Michelle",
+        "Kelly, Mark E (1964- )",
+        "Warnock, Raphael G",
+        "Polis, Jared S (1975- )",
+        "Tester, Jon",
+        "Beshear, Andrew G (1977- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; Photograph by Brittany Greeson for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/12/opinion/10bruni/10bruni-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/12/opinion/10bruni/10bruni-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/12/opinion/10bruni/10bruni-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/afb8dac5-ce2f-5b21-b76e-08c929f0a2c8",
+      "url": "https://www.nytimes.com/2022/11/12/us/politics/jim-marchant-cisco-aguilar-nevada.html",
+      "id": 100000008608995,
+      "asset_id": 100000008608995,
+      "source": "New York Times",
+      "published_date": "2022-11-12",
+      "updated": "2022-11-13 16:55:50",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Elections, Secretary of State;Midterm Elections (2022);Politics and Government;United States Politics and Government;Conspiracy Theories;Voter Fraud (Election Fraud);Aguilar, Cisco;Marchant, Jim (1956- );Nevada",
+      "column": null,
+      "byline": "By Nick Corasaniti",
+      "type": "Article",
+      "title": "Voters Reject Election Deniers Running to Take Over Elections",
+      "abstract": "With Jim Marchant’s defeat by Cisco Aguilar in Nevada’s secretary of state race, all but one of the “America First” slate of candidates who espoused conspiracy theories about the 2020 election were defeated.",
+      "des_facet": [
+        "Elections, Secretary of State",
+        "Midterm Elections (2022)",
+        "Politics and Government",
+        "United States Politics and Government",
+        "Conspiracy Theories",
+        "Voter Fraud (Election Fraud)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Aguilar, Cisco",
+        "Marchant, Jim (1956- )"
+      ],
+      "geo_facet": [
+        "Nevada"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cisco Aguilar, the Democratic nominee for secretary of state in Nevada, at an event this month. “People are tired of chaos,” he said in an interview. ",
+          "copyright": "Bridget Bennett for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/11/us/11election-aguilar-nevada/11election-aguilar-nevada-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/11/us/11election-aguilar-nevada/11election-aguilar-nevada-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/11/us/11election-aguilar-nevada/11election-aguilar-nevada-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9aa61ca5-0847-5604-93cc-9a701d36210f",
+      "url": "https://www.nytimes.com/2022/11/02/dining/make-ahead-thanksgiving-recipes.html",
+      "id": 100000008606426,
+      "asset_id": 100000008606426,
+      "source": "New York Times",
+      "published_date": "2022-11-02",
+      "updated": "2022-11-08 21:25:14",
+      "section": "Food",
+      "subsection": "",
+      "nytdsection": "food",
+      "adx_keywords": "Thanksgiving Day;Recipes;Cooking and Cookbooks;Content Type: Service",
+      "column": null,
+      "byline": "By Genevieve Ko",
+      "type": "Article",
+      "title": "These 6 Thanksgiving Dishes Are Best When They’re Made Ahead",
+      "abstract": "Prepare mashed potatoes, gravy, cranberry sauce and more holiday favorites in advance for dishes with the best texture and flavor.",
+      "des_facet": [
+        "Thanksgiving Day",
+        "Recipes",
+        "Cooking and Cookbooks",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/09/dining/02Ko1/merlin_215517522_e597a2a8-8964-4b82-ab5d-5cb3d78e87ea-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/09/dining/02Ko1/merlin_215517522_e597a2a8-8964-4b82-ab5d-5cb3d78e87ea-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/09/dining/02Ko1/merlin_215517522_e597a2a8-8964-4b82-ab5d-5cb3d78e87ea-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/12a9b947-6c23-5e41-a6d0-bd224b65a8e3",
+      "url": "https://www.nytimes.com/2022/11/12/us/politics/trump-2024-republicans.html",
+      "id": 100000008633751,
+      "asset_id": 100000008633751,
+      "source": "New York Times",
+      "published_date": "2022-11-12",
+      "updated": "2022-11-14 13:55:09",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Midterm Elections (2022);Presidential Election of 2024;United States Politics and Government;Polls and Public Opinion;Right-Wing Extremism and Alt-Right;Trump, Donald J;Republican Party",
+      "column": null,
+      "byline": "By Lisa Lerer and Reid J. Epstein",
+      "type": "Article",
+      "title": "Trump Angst Grips Republicans (Again) as 2024 Announcement Looms",
+      "abstract": "While Republicans pick up the pieces from the midterm elections, former President Donald J. Trump is already forcing them to take sides in the next election.",
+      "des_facet": [
+        "Midterm Elections (2022)",
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Polls and Public Opinion",
+        "Right-Wing Extremism and Alt-Right"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After a string of midterm losses by candidates Donald J. Trump supported, there are some signs of another Republican effort to inch the party away from the former president.",
+          "copyright": "Rebecca Noble for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/11/multimedia/00pol-trump-addiction-photo01-1-cd1c/00pol-trump-addiction-photo01-1-cd1c-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/11/multimedia/00pol-trump-addiction-photo01-1-cd1c/00pol-trump-addiction-photo01-1-cd1c-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/11/multimedia/00pol-trump-addiction-photo01-1-cd1c/00pol-trump-addiction-photo01-1-cd1c-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0e5d55ca-b152-5023-b69e-6392d0747ad4",
+      "url": "https://www.nytimes.com/2022/11/13/nyregion/tattoos-children.html",
+      "id": 100000008606220,
+      "asset_id": 100000008606220,
+      "source": "New York Times",
+      "published_date": "2022-11-13",
+      "updated": "2022-11-13 23:50:04",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Tattoos;Children and Childhood;Age, Chronological;Parenting;Child Abuse and Neglect;States (US);Law and Legislation;United States",
+      "column": null,
+      "byline": "By Sarah Maslin Nir and Kristi Berner",
+      "type": "Article",
+      "title": "A 10-Year-Old Got a Tattoo. His Mother Was Arrested.",
+      "abstract": "In New York State, you must be at least 18 to get a tattoo. Elsewhere, the rules are different — and perceptions are changing.",
+      "des_facet": [
+        "Tattoos",
+        "Children and Childhood",
+        "Age, Chronological",
+        "Parenting",
+        "Child Abuse and Neglect",
+        "States (US)",
+        "Law and Legislation"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In some states, tattoos are banned for under-18-year-olds.",
+          "copyright": "Valentin Flauraud/EPA, via Shutterstock",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/10/multimedia/NY-TATTOOS-1-2cce/NY-TATTOOS-1-2cce-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/10/multimedia/NY-TATTOOS-1-2cce/NY-TATTOOS-1-2cce-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/10/multimedia/NY-TATTOOS-1-2cce/NY-TATTOOS-1-2cce-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/78a57d2b-d7ae-5c70-bc47-2ed35702f988",
+      "url": "https://www.nytimes.com/2022/11/13/us/politics/trump-irs-investigations.html",
+      "id": 100000008635423,
+      "asset_id": 100000008635423,
+      "source": "New York Times",
+      "published_date": "2022-11-13",
+      "updated": "2022-11-14 11:49:50",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Ethics and Official Misconduct;Kelly, John F (1950- );Trump, Donald J;Comey, James B;McCabe, Andrew G;Internal Revenue Service;Federal Bureau of Investigation;Justice Department",
+      "column": null,
+      "byline": "By Michael S. Schmidt",
+      "type": "Article",
+      "title": "Trump Wanted I.R.S. Investigations of Foes, Top Aide Says",
+      "abstract": "John F. Kelly, who was White House chief of staff, said that as president, Donald J. Trump wanted investigations into perceived enemies like James Comey, the former F.B.I. director.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Ethics and Official Misconduct"
+      ],
+      "org_facet": [
+        "Internal Revenue Service",
+        "Federal Bureau of Investigation",
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Kelly, John F (1950- )",
+        "Trump, Donald J",
+        "Comey, James B",
+        "McCabe, Andrew G"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "As president, Donald J. Trump also discussed using the I.R.S. to investigate the former F.B.I. official Andrew G. McCabe, said John F. Kelly, a former White House chief of staff.",
+          "copyright": "Maddie McGarvey for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/13/multimedia/13dc-audit-1-80cc/13dc-audit-1-80cc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/13/multimedia/13dc-audit-1-80cc/13dc-audit-1-80cc-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/13/multimedia/13dc-audit-1-80cc/13dc-audit-1-80cc-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/530e9663-f9fa-5043-8128-52c71fe125af",
+      "url": "https://www.nytimes.com/2022/11/12/opinion/elizabeth-warren-democrat-senate-midterm.html",
+      "id": 100000008631810,
+      "asset_id": 100000008631810,
+      "source": "New York Times",
+      "published_date": "2022-11-12",
+      "updated": "2022-11-14 10:19:16",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Midterm Elections (2022);United States Economy;United States Politics and Government;Elections, Senate;Biden, Joseph R Jr;Trump, Donald J;Democratic Party;Senate;House of Representatives;Republican Party",
+      "column": null,
+      "byline": "By Elizabeth Warren",
+      "type": "Article",
+      "title": "Elizabeth Warren: Democrats Just Held the Senate. Here’s What We Do Next.",
+      "abstract": "The party must do even more to improve Americans’ lives.",
+      "des_facet": [
+        "Midterm Elections (2022)",
+        "United States Economy",
+        "United States Politics and Government",
+        "Elections, Senate"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Senate",
+        "House of Representatives",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kenny Holston for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/11/opinion/11warren-image/11warren-image-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/11/opinion/11warren-image/merlin_216426474_aeec5874-81ae-40c4-9c97-9a4d987f99c1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/11/opinion/11warren-image/merlin_216426474_aeec5874-81ae-40c4-9c97-9a4d987f99c1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/71648bbd-ca86-509a-be28-43b6992f8fdb",
+      "url": "https://www.nytimes.com/2022/11/11/arts/music/mimi-parker-dead.html",
+      "id": 100000008630906,
+      "asset_id": 100000008630906,
+      "source": "New York Times",
+      "published_date": "2022-11-11",
+      "updated": "2022-11-11 16:53:28",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Deaths (Obituaries);Pop and Rock Music;Parker, Mimi (1967-2022);Sparhawk, Alan;Sub Pop Records;Low (Music Group)",
+      "column": null,
+      "byline": "By Alex Williams",
+      "type": "Article",
+      "title": "Mimi Parker, Moody Alt-Rock Vocalist, Is Dead at 55",
+      "abstract": "Her influential band, Low, emerged in the 1990s, but its minimalist sound stood in sharp contrast to the anthems of angst that came to define the grunge era.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Pop and Rock Music"
+      ],
+      "org_facet": [
+        "Sub Pop Records",
+        "Low (Music Group)"
+      ],
+      "per_facet": [
+        "Parker, Mimi (1967-2022)",
+        "Sparhawk, Alan"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mimi Parker of Low in performance in Paris in 2011. The band, which she founded with her husband, Alan Sparhawk, remained an influential and acclaimed act for nearly 30 years.",
+          "copyright": "Samuel Dietz/Redferns",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/10/obituaries/10parker-01/10parker-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/10/obituaries/10parker-01/10parker-01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/10/obituaries/10parker-01/10parker-01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d581ddcf-c5f3-5339-aeda-d5ed8b61ebb6",
+      "url": "https://www.nytimes.com/2022/11/12/business/burlington-police-stolen-bikes.html",
+      "id": 100000008597865,
+      "asset_id": 100000008597865,
+      "source": "New York Times",
+      "published_date": "2022-11-12",
+      "updated": "2022-11-14 12:55:06",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Robberies and Thefts;Bicycles and Bicycling;Police;Police Reform;Crime and Criminals;Drug Abuse and Traffic;Homeless Persons;Methamphetamines;Assaults;City Councils;Politics and Government;Burlington (Vt)",
+      "column": null,
+      "byline": "By Michael Corkery and Andres Kudacki",
+      "type": "Article",
+      "title": "The Bike Thieves of Burlington, Vermont",
+      "abstract": "A hunt for stolen goods has put citizens and business owners in the center of a debate about policing and a growing, sometimes violent, problem with crime.",
+      "des_facet": [
+        "Robberies and Thefts",
+        "Bicycles and Bicycling",
+        "Police",
+        "Police Reform",
+        "Crime and Criminals",
+        "Drug Abuse and Traffic",
+        "Homeless Persons",
+        "Methamphetamines",
+        "Assaults",
+        "City Councils",
+        "Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Burlington (Vt)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/13/business/13Burlington-1-print/merlin_214455717_e3c066fc-451d-4a89-bee8-323e709537a2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/13/business/13Burlington-1-print/merlin_214455717_e3c066fc-451d-4a89-bee8-323e709537a2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/13/business/13Burlington-1-print/merlin_214455717_e3c066fc-451d-4a89-bee8-323e709537a2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a63ac9b2-a87b-5ebb-806e-69c430ee44e6",
+      "url": "https://www.nytimes.com/2022/11/13/us/politics/fetterman-pennsylvania-voters-democrats.html",
+      "id": 100000008634843,
+      "asset_id": 100000008634843,
+      "source": "New York Times",
+      "published_date": "2022-11-13",
+      "updated": "2022-11-14 13:17:30",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Midterm Elections (2022);Elections, Senate;Labor and Jobs;Factories and Manufacturing;Whites;Fetterman, John (1969- );Oz, Mehmet C;Biden, Joseph R Jr;Democratic Party;Pennsylvania;Armstrong County (Pa)",
+      "column": null,
+      "byline": "By Trip Gabriel",
+      "type": "Article",
+      "title": "Democrats See a Blueprint in Fetterman’s Victory in Pennsylvania",
+      "abstract": "John Fetterman flipped a key Senate seat in part by attracting white working-class votes, including in the reddest parts of his state.",
+      "des_facet": [
+        "Midterm Elections (2022)",
+        "Elections, Senate",
+        "Labor and Jobs",
+        "Factories and Manufacturing",
+        "Whites"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Fetterman, John (1969- )",
+        "Oz, Mehmet C",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        "Pennsylvania",
+        "Armstrong County (Pa)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator-elect John Fetterman of Pennsylvania declaring victory in Pittsburgh on Tuesday.",
+          "copyright": "Ruth Fremson/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/13/multimedia/13pol-pa-vote-1-6a5b/13pol-pa-vote-1-6a5b-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/13/multimedia/13pol-pa-vote-1-6a5b/13pol-pa-vote-1-6a5b-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/13/multimedia/13pol-pa-vote-1-6a5b/13pol-pa-vote-1-6a5b-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/eb4d4ba8-2110-5ce0-bedd-3ff4b216e953",
+      "url": "https://www.nytimes.com/2022/11/12/opinion/trump-election-midterm.html",
+      "id": 100000008634159,
+      "asset_id": 100000008634159,
+      "source": "New York Times",
+      "published_date": "2022-11-12",
+      "updated": "2022-11-12 10:55:07",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Midterm Elections (2022);United States Politics and Government;Presidential Election of 2024;Trump, Donald J;DeSantis, Ron;Republican Party",
+      "column": null,
+      "byline": "By Maureen Dowd",
+      "type": "Article",
+      "title": "The Emperor of Chaos Has No Clothes",
+      "abstract": "Is this the end of Little Caesar? Or will Trump retain his G.O.P. domain?",
+      "des_facet": [
+        "Midterm Elections (2022)",
+        "United States Politics and Government",
+        "Presidential Election of 2024"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "DeSantis, Ron"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/12/opinion/12dowd-image/12dowd-image-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/12/opinion/12dowd-image/12dowd-image-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/12/opinion/12dowd-image/12dowd-image-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5a564f2f-daf9-541d-9677-397423f07cd5",
+      "url": "https://www.nytimes.com/2022/11/08/well/move/full-body-workout-20-minutes.html",
+      "id": 100000008549546,
+      "asset_id": 100000008549546,
+      "source": "New York Times",
+      "published_date": "2022-11-08",
+      "updated": "2022-11-14 19:50:39",
+      "section": "Well",
+      "subsection": "Move",
+      "nytdsection": "well",
+      "adx_keywords": "Exercise;Heart;Content Type: Service",
+      "column": null,
+      "byline": "By Hilary Achauer",
+      "type": "Article",
+      "title": "Can You Get a Full-Body Workout in 20 Minutes?",
+      "abstract": "Yes, but you have to pick the right routine.",
+      "des_facet": [
+        "Exercise",
+        "Heart",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eric Helgas for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/15/multimedia/08ASK-WELL-MOST-EFFICIENT-EXERCISES1-1-8888/08ASK-WELL-MOST-EFFICIENT-EXERCISES1-1-8888-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/15/multimedia/08ASK-WELL-MOST-EFFICIENT-EXERCISES1-1-8888/08ASK-WELL-MOST-EFFICIENT-EXERCISES1-1-8888-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/15/multimedia/08ASK-WELL-MOST-EFFICIENT-EXERCISES1-1-8888/08ASK-WELL-MOST-EFFICIENT-EXERCISES1-1-8888-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e3a931bc-4a5d-576d-9db4-ac8568edf903",
+      "url": "https://www.nytimes.com/2022/11/13/business/electric-vehicles-buyers-mainstream.html",
+      "id": 100000008609123,
+      "asset_id": 100000008609123,
+      "source": "New York Times",
+      "published_date": "2022-11-13",
+      "updated": "2022-11-14 12:08:13",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Electric and Hybrid Vehicles;Solar Energy;Prices (Fares, Fees and Rates);Tesla Motors Inc;Volkswagen AG;Chevrolet Division of General Motors Corp;Nissan Motor Co;United States",
+      "column": null,
+      "byline": "By Jack Ewing and Peter Eavis",
+      "type": "Article",
+      "title": "Electric Vehicles Start to Enter the Car-Buying Mainstream",
+      "abstract": "While sales are still skewed toward affluent buyers, more people are choosing electric vehicles to save money.",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Solar Energy",
+        "Prices (Fares, Fees and Rates)"
+      ],
+      "org_facet": [
+        "Tesla Motors Inc",
+        "Volkswagen AG",
+        "Chevrolet Division of General Motors Corp",
+        "Nissan Motor Co"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Janne Iivonen",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/11/business/00ev-owners1/00ev-owners1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/11/business/00ev-owners1/00ev-owners1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/11/business/00ev-owners1/00ev-owners1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c5b199f0-4915-5c41-9b39-d346ac41d3fe",
+      "url": "https://www.nytimes.com/2022/11/13/world/europe/russia-kherson-ukraine.html",
+      "id": 100000008635431,
+      "asset_id": 100000008635431,
+      "source": "New York Times",
+      "published_date": "2022-11-13",
+      "updated": "2022-11-14 07:07:36",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);Defense and Military Forces;Kherson (Ukraine);Ukraine;Russia",
+      "column": null,
+      "byline": "By Andrew E. Kramer",
+      "type": "Article",
+      "title": "Russia Tried to Absorb a Ukrainian City. It Didn’t Work.",
+      "abstract": "In Kherson, national songs were banned, speaking Ukrainian could lead to arrest, and students were told they were Russian. Cue the resistance.",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "Defense and Military Forces"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Kherson (Ukraine)",
+        "Ukraine",
+        "Russia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Ukrainian soldier signing a flag in the main square of Kherson on Sunday.",
+          "copyright": "Finbarr O'Reilly for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/13/world/13ukraine-kherson-top-01/13ukraine-kherson-top-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/13/world/13ukraine-kherson-top-01/merlin_216558759_5797941f-c538-4eef-9868-065dc65cf623-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/13/world/13ukraine-kherson-top-01/merlin_216558759_5797941f-c538-4eef-9868-065dc65cf623-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
