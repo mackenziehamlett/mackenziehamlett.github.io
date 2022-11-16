@@ -4,7 +4,7 @@ ADD VID
 
 # REPORT
 ## Sketch
-![p2 Mackenzie Hamlett](https://user-images.githubusercontent.com/59324140/202062422-1f22bb85-6545-4eb7-adc7-d032ab0c3d46.png)
+![p2 Mackenzie Hamlett1](https://user-images.githubusercontent.com/59324140/202062732-ea30b672-244c-4a37-9a2d-8d475528e35f.png)
 
 ## Sketch Discussion
 ### Left side of Mirror
