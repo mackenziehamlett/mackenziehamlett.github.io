@@ -52,6 +52,9 @@ ADD GIF
 - Health: Weight
     - The health feature I chose to implement was to display the current weight of the mirror user and have it compared to their weight from that time last week. The data for the weight is stored in <weights.json> and is collected by the scale and stored in the json file. The function uses cp5's Date(); to get the current day and sotres and displays the users weight while also fetching their weight from 7 days prevously and displaying the difference to the user as well.
 - Weather
+    - The weather functionality was implemented through accessing the free weather API given by weather.gov, the 3 fetched data points from the API for the user are the local temperature, the forecast (sunny, cloudy, rainty...etc), and the location of the mirror user. 
 - Clock
+    - The clock was implemented utilizing cp5.js's ability to access the clock of the computer the program is being ran on through positioning the hour, minute, and second hands in their correct positions through functions minute(), hour(), second() and multiplied by cos() and sin() for the correct radial locations on the dial.
 - Illumination Colorss (ADVANCED)
+    - 
 
