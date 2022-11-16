@@ -36,7 +36,7 @@ ADD VID
 
 ## Implementation
 ### GIF of Mirror in use
-ADD GIF
+![p2 Mackenzie Hamlett](https://user-images.githubusercontent.com/59324140/202063593-9ffef024-9a29-46bf-9272-e0d90637dbf0.gif)
 
 ### Discussion of implementation
 #### Changes made from the sketch:
