@@ -46,9 +46,11 @@ ADD GIF
 - Calendar Events moved to right side of the mirror
 #### Implemented features
 - Calendar Events
-    - The calendar events on the righthand side of the mirror are displayed to the user by fetching the stored event data in <events.json> for that specific date
+    - The calendar events on the righthand side of the mirror are displayed to the user by fetching the stored event data in <events.json> for that specific date using the loadJSON function in cp5.js, they are display through using a loop to iterate through each event and output in order of time.
 - News
+    - The news functionaility on the lefthand side of the mirror is displayed to the user by fetching the stored data in <news.json> which is a json file retrieved from a free api given by New York Times for developer use. Then each headline is displayed to the user through looping through to find each majot headline and output on the mirror.
 - Health: Weight
+    - The health feature I chose to implement was to display the current weight of the mirror user and have it compared to their weight from that time last week. The data for the weight is stored in <weights.json> and is collected by the scale and stored in the json file. The function uses cp5's Date(); to get the current day and sotres and displays the users weight while also fetching their weight from 7 days prevously and displaying the difference to the user as well.
 - Weather
 - Clock
 - Illumination Colorss (ADVANCED)
